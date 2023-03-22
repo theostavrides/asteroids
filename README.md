@@ -1,5 +1,5 @@
 ## Description
-Remake of the classic arcade game asteroids using the Phaser3 game engine.
+Remake of the arcade game Asteroids using the Phaser3 game engine.
 https://phaser.io/
 
 ## Available Commands
